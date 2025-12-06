@@ -516,7 +516,7 @@ If you use this playbook and land your dream role, I'd love to hear about it! Wh
 ## 👤 Author
 
 **Julius Adeniyi**  
-*Former Lead Architect, Enterprise Cloud Platforms*
+*Lead Architect, Enterprise Cloud Platforms*
 
 ### Background
 
